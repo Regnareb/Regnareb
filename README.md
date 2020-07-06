@@ -1,4 +1,4 @@
-### ***FX Artist | Technical Director*** located in Paris, France. 
+### ***FX Artist | Technical Director***  
 
 I worked for several years on movies and TV series at studios such as Illumination Mac Guff as a **Technical Director** developping tools, pipeline, and debugging on Maya. And as an **FX Artist** on **Houdini** and Maya, while still developping some tools to facilitate our workflow.
 
