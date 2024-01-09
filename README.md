@@ -2,11 +2,12 @@
 
 I worked for several years on movies and TV series at studios such as Illumination Mac Guff as a **Technical Director** developping tools, pipeline, and debugging on Maya. And as an **FX Artist** on **Houdini** and Maya, while still developping some tools to facilitate our workflow.
 
-- :wrench: Working on [Houdini Tools](https://www.regnareb.com/Houdini)
+- :wrench: Working on [Houdini Tools](https://www.regnareb.com/houdini)
+- ⌨️ A [Better Qwerty](https://www.regnareb.com/better-qwerty) layout for typing accents on Windows
 - :link: [Stream Manager](https://github.com/Regnareb/StreamManager) available
 - :speech_balloon:  I speak `Python`, `VEX`, `MEL`, English, French, Spanish 
 - 🤔 Very interested in **Machine Learning in Houdini**
-- :earth_africa: Actually looking for a job, can relocate 
+- :earth_africa: Looking for a job, can relocate 
 
 For more information check [my page](https://www.regnareb.com/)
 
